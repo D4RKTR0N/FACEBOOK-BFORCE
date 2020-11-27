@@ -1,10 +1,30 @@
 # FACEBOOK-BFORCE
 
 USAGE
+
+
+
 pip install requests
+
+
+
+
 pip install mechanize
+
+
+
 git clone https://github.com/D4RKTR0N/FACEBOOK-BFORCE.git
+
+
+
+
+
 cd FACEBOOK-BFORCE
+
+
+
+
+
 python FACEBFORCE.py 
 
 
